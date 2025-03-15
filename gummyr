@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUMMYR - Gomitas Enchiladas y Cafés</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffefd5;
+        }
+        h1 {
+            color: #d2691e;
+        }
+        .product {
+            font-size: 20px;
+            margin: 10px 0;
+        }
+        .contact {
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>GUMMYR</h1>
+    <h2>Gomitas Enchiladas y Cafés</h2>
+    
+    <div class="product">🍬 Panditas Neón - $30</div>
+    <div class="product">🍬 Gusanitos - $30</div>
+    <div class="product">🍬 Frutas - $30</div>
+    <div class="product">🍪 Galletas - $22</div>
+    <div class="product">☕ Café - Pregunta a su mesero</div>
+
+    <div class="contact">📲 Contacto: Con su mesero</div>
+</body>
+</html>
